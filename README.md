@@ -16,23 +16,14 @@ This project is part of the PLP Week 2 Assignment: "Machine Learning Meets the U
 
 ---
 
-## 2. Team & Roles
-
-| Name      | Role & Contribution                                                                 |
-|-----------|-------------------------------------------------------------------------------------|
-| Mike      | Data acquisition, preprocessing, and exploratory data analysis                      |
-| Violet    | Model selection, training, and evaluation (supervised learning: Random Forest)      |
-| Lukhanyo  | Visualization, result interpretation, and ethical reflection                        |
-| Tshimo    | Documentation, presentation, and project coordination                               |
-
-## 👥 Team Roles & Responsibilities
+## 2. Team Roles & Responsibilities
 
 | Member    | Role                                | Responsibility                                                                                                 |
 |-----------|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Mike      | 👨‍💻 Machine Learning Developer      | Build the Random Forest model in the notebook, evaluate it, and generate the feature importance visualization. |
-| Violet    | 🌍 Ethics & Reflection Lead          | Write the Ethical Reflection section, discussing data bias, fairness, and sustainability of the AI solution.   |
-| Lukhanyo  | 📄 Documentation Manager             | Create a detailed README.md file for the GitHub repo.                                                          |
-| Tshimo    | 🎤 Communications & Presentation Lead| Write a short article for LMS and prepare a pitch deck (5-minute presentation) to explain the solution and its impact. |
+| Mike      | 👨‍💻 Machine Learning Developer      | Built the Random Forest model in the notebook, evaluated it, and generated the feature importance visualization. |
+| Violet    | 🌍 Ethics & Reflection Lead          | Wrote the Ethical Reflection section, discussing data bias, fairness, and sustainability of the AI solution.   |
+| Lukhanyo  | 📄 Documentation Manager             | Created a detailed README.md file for the GitHub repo.                                                          |
+| Tshimo    | 🎤 Communications & Presentation Lead| Wrote a short article for LMS and prepared a pitch deck (5-minute presentation) to explain the solution and its impact. |
 
 ---
 
@@ -72,9 +63,18 @@ This project is part of the PLP Week 2 Assignment: "Machine Learning Meets the U
 - **Accuracy:** _[Insert value from notebook]_
 - **Key Features:** Temperature, rainfall, humidity, previous case counts
 - **Visualizations:**
-  - ![Feature Importance](malaria-outbreak-ai/feature_importance.png)
-  - ![Correlation Heatmap](malaria-outbreak-ai/correlation_heatmap.png)
-  - ![Regional Cases](malaria-outbreak-ai/region_cases.png)
+**Feature Importance**
+  - ![Feature Importance](malaria-outbreak-ai/screenshots/feature_importance.png)
+
+  **Correlation Heatmap**
+  - ![Correlation Heatmap](malaria-outbreak-ai/screenshots/correlation_heatmap.png)
+
+  **COnfusion Matrix**
+  - ![Correlation Heatmap](malaria-outbreak-ai/screenshots/confusion_matrix.png)
+
+  **Regional Cases**
+  - ![Regional Cases](malaria-outbreak-ai/screenshots/region_cases.png)
+
 
 ---
 
@@ -117,9 +117,9 @@ See `/malaria-outbreak-ai/screenshots/` for demo images and results.
 
 ## 9. References
 
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [World Bank Open Data](https://data.worldbank.org/)
 - [UN SDG Database](https://unstats.un.org/sdgs/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ---
 
@@ -132,9 +132,9 @@ This project is for educational purposes as part of the PLP Academy.
 ## 11. Team Contacts
 
 - Mike: [GitHub](https://github.com/MykeShale)
-- Violet: [Add link]
-- Lukhanyo: (https://github.com/Luu-17)
-- Tshimo: [Add link]
+- Violet: [GitHub](https://github.com/violetwanjiru)
+- Lukhanyo: [GitHub](https://github.com/Luu-17)
+- Tshimo: [GitHub](https://github.com/TshimoHlapane)
 
 ---
 
