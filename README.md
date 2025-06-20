@@ -25,6 +25,15 @@ This project is part of the PLP Week 2 Assignment: "Machine Learning Meets the U
 | Lukhanyo  | Visualization, result interpretation, and ethical reflection                        |
 | Tshimo    | Documentation, presentation, and project coordination                               |
 
+## 👥 Team Roles & Responsibilities
+
+| Member    | Role                                | Responsibility                                                                                                 |
+|-----------|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Mike      | 👨‍💻 Machine Learning Developer      | Build the Random Forest model in the notebook, evaluate it, and generate the feature importance visualization. |
+| Violet    | 🌍 Ethics & Reflection Lead          | Write the Ethical Reflection section, discussing data bias, fairness, and sustainability of the AI solution.   |
+| Lukhanyo  | 📄 Documentation Manager             | Create a detailed README.md file for the GitHub repo.                                                          |
+| Tshimo    | 🎤 Communications & Presentation Lead| Write a short article for LMS and prepare a pitch deck (5-minute presentation) to explain the solution and its impact. |
+
 ---
 
 ## 3. Machine Learning Approach
@@ -129,7 +138,7 @@ This project is for educational purposes as part of the PLP Academy.
 
 ---
 
-> “AI can be the bridge between innovation and sustainability.” — UN Tech Envoy
+> "AI can be the bridge between innovation and sustainability." — UN Tech Envoy
 
 ---
 
